@@ -3,7 +3,32 @@
 
 # 📚책을 읽읍시다
 
-### Rule
+<br/>
+
+## 🚀기간
+
+- 일정 : 2023.10.12 ~ ing
+
+- 매주 수요일 9시에 Discord로 진행합니다.
+
+    - Discord 링크 : https://discord.gg/KC8deweW
+
+<br/>
+
+## ✏️참가 인원
+
+
+| 김민석 | 김민주 | 조국현 | 김동형
+| --- | --- | --- | --- |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/6democratickim9) | [깃허브](https://github.com/epiphany1013) | [깃허브](https://github.com/kimsdh) |
+
+
+
+<br/>
+
+
+
+### 🎯Rule
 
 - 주단위로 책을 정리한다.
 
@@ -23,7 +48,7 @@
 <br/><br/>
 
 
-## 스터디 인원에게 - 
+## 📮스터디 인원에게 - 
 
 책 스터디 그룹도 엄청 많고, 책 스터디의 방법론 또한 엄청 많습니다. 
 
